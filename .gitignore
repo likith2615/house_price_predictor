@@ -1,0 +1,6 @@
+.venv/
+.venv312/
+app_backup.py
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
